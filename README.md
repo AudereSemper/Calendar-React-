@@ -42,3 +42,5 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+https://blog.flowandform.agency/create-a-custom-calendar-in-react-3df1bfd0b728 I made it follow this tutorials, the project isn't finish yet see the issue page
